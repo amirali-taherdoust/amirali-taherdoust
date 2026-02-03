@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AmirAli Taherdoust</h1>
 <h3 align="center">A passionate Software engineer</h3>
 
-- 🌱 I’m currently learning **🎓 University of Surrey – MSc Cyber Security**
+- 🌱 🌱 I’m currently studying 🎓 MSc Cyber Security at the University of Surrey**
 
 - 👨‍💻 All of my projects are available at [amiralitaherdoust.me](amiralitaherdoust.me)
 
