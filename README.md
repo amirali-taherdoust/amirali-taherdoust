@@ -3,7 +3,7 @@
 
 - 🌱 🌱 I’m currently studying 🎓 MSc Cyber Security at the University of Surrey**
 
-- 👨‍💻 All of my projects are available at [amiralitaherdoust.me](amiralitaherdoust.me)
+- 👨‍💻 All of my projects are available at **amiralitaherdoust.me**
 
 - 📫 How to reach me **taherdoust.amirali@gmail.com**
 
